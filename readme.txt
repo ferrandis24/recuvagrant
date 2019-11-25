@@ -2,5 +2,5 @@
 
 Coloca el archivo vagrant, el archivo provision y la carpeta lucasweb a tu repositorio.
 
-Deberas cambiar el archivo hosts para que tener el dominio llamado www.lucasweb.com,
+Deberas cambiar el archivo hosts para que tener el dominio llamado www.examen.es,
 para ello tendras que copiar el archivo hosts a la carpeta C:\tools\cygwin\etc
